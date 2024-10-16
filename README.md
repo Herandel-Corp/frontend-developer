@@ -10,18 +10,18 @@ This repository contains a collection of practical challenges designed to assess
 
 ## Objective
 
-The goal of this repository is to provide a platform where developers can showcase their skills in a controlled environment. The challenges are designed to reflect real-world situations that a developer may encounter in their daily work. 
+The goal of this repository is to provide a platform where developers can showcase their skills in a controlled environment. The challenges are designed to reflect real-world situations that a developer may encounter in their daily work.
 
 These challenges aim to evaluate not only technical skills but also problem-solving abilities and coding practices.
 
 ## Available Challenges
 
-- **Challenge 1:** (insert challenge title)
-  - Description: (provide a brief description of what the challenge entails)
-  - Estimated Time: ~1 hour
-- **Challenge 2:** Registration Form
-  - Description: Create a registration form that validates user input, ensuring all required fields are filled and the email format is correct.
-  - Estimated Time: ~1 hour
+- - **Challenge 1:** Registration Form
+  - **Description:** Create a registration form that validates user input, ensuring all required fields are filled and the email format is correct. The form should provide clear feedback for errors and confirm successful submissions.
+  - **Estimated Time:** ~1 hour
+- **Challenge 2:** Dynamic Routing
+  - **Description:** Implement a dynamic routing system in Next.js that displays product details based on user selection. Create a product listing page that lists products with links to individual product detail pages. Utilize `getStaticPaths` and `getStaticProps` to fetch product data and generate routes dynamically. Ensure the application is responsive and provides a smooth user experience when navigating between pages.
+  - **Estimated Time:** ~1 hour
 
 ## Instructions
 
