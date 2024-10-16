@@ -16,7 +16,7 @@ These challenges aim to evaluate not only technical skills but also problem-solv
 
 ## Available Challenges
 
-- - **Challenge 1:** Registration Form
+- **Challenge 1:** Registration Form
   - **Description:** Create a registration form that validates user input, ensuring all required fields are filled and the email format is correct. The form should provide clear feedback for errors and confirm successful submissions.
   - **Estimated Time:** ~1 hour
 - **Challenge 2:** Dynamic Routing
