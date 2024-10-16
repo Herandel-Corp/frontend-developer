@@ -1,39 +1,6 @@
-# Repositório de Testes para Vagas de Desenvolvedor Frontend
+# Repository for Frontend Developer Tests
 
-<details>
-<summary>📝 Instruções em Português</summary>
-
-Este repositório contém desafios práticos projetados para avaliar as habilidades de candidatos a posições de Desenvolvedor Frontend. Cada desafio é formulado para testar diferentes competências, incluindo:
-
-- Manipulação de formulários
-- Validação de dados
-- Gerenciamento de estado no React
-- Estilização de componentes
-- Integração com APIs
-
-## Objetivo
-
-O objetivo deste repositório é proporcionar uma plataforma onde os candidatos possam demonstrar suas habilidades práticas em um ambiente controlado. Os desafios foram elaborados para refletir situações do mundo real que um desenvolvedor pode encontrar no dia a dia.
-
-## Desafios Disponíveis
-
-- **Desafio 1:** (inserir título do desafio)
-- **Desafio 2:** Formulário de Cadastro
-
-## Instruções
-
-Os candidatos devem seguir as instruções de cada desafio, codificar as soluções e, em seguida, enviar suas implementações para revisão. Os testes são realizados ao vivo e visam avaliar não apenas a capacidade de codificação, mas também a forma como o candidato lida com desafios e restrições de tempo.
-
-## Contribuições
-
-Os desafios são atualizados regularmente. Sugestões e contribuições para novos desafios são sempre bem-vindas!
-
-</details>
-
-<details>
-<summary>📝 Repository for Frontend Developer Job Tests</summary>
-
-This repository contains practical challenges designed to evaluate the skills of candidates for Frontend Developer positions. Each challenge is formulated to test different competencies, including:
+This repository contains a collection of practical challenges designed to assess the skills of frontend developers. The challenges cover a variety of competencies, such as:
 
 - Form handling
 - Data validation
@@ -43,7 +10,7 @@ This repository contains practical challenges designed to evaluate the skills of
 
 ## Objective
 
-The goal of this repository is to provide a platform where candidates can demonstrate their practical skills in a controlled environment. The challenges are designed to reflect real-world situations that a developer may encounter in their daily work.
+The goal of this repository is to provide a platform where developers can showcase their skills in a controlled environment. The challenges are designed to reflect real-world situations that a developer may encounter in their daily work.
 
 ## Available Challenges
 
@@ -52,14 +19,13 @@ The goal of this repository is to provide a platform where candidates can demons
 
 ## Instructions
 
-Candidates should follow the instructions for each challenge, code their solutions, and then submit their implementations for review. The tests are conducted live and aim to evaluate not only coding ability but also how the candidate handles challenges and time constraints.
+Candidates should follow the instructions for each challenge, code their solutions, and submit their implementations for review. It is recommended that if you are testing someone's skills, this is done live, as the challenges are designed to be completed in approximately one hour.
 
 ## Contributions
 
-The challenges are regularly updated. Suggestions and contributions for new challenges are always welcome!
-
-</details>
+The challenges are regularly updated, and contributions for new challenges are always welcome! Feel free to use and adapt the tests as needed.
 
 ---
 
-Agradecemos o seu interesse em fazer parte da nossa equipe! / Thank you for your interest in joining our team!
+This project is licensed under the MIT License. Please refer to the `LICENSE` file for more details.
+
