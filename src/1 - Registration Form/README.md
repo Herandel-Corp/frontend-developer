@@ -72,7 +72,7 @@ Implement both client-side and server-side validation for the form fields:
 
 #### 5. Recommended Technologies
 
-- **Frontend Framework:** React (or another framework/library of your choice)
+- **Frontend Framework:** React.js/Next.js
 - **CSS Framework:** Consider using Bootstrap, Tailwind CSS, or plain CSS for styling.
 
 ### Challenge Objective
